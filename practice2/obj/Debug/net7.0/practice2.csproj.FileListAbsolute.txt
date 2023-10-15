@@ -1,0 +1,14 @@
+C:\C#\CSharp\practice2\bin\Debug\net7.0\practice2.exe
+C:\C#\CSharp\practice2\bin\Debug\net7.0\practice2.deps.json
+C:\C#\CSharp\practice2\bin\Debug\net7.0\practice2.runtimeconfig.json
+C:\C#\CSharp\practice2\bin\Debug\net7.0\practice2.dll
+C:\C#\CSharp\practice2\bin\Debug\net7.0\practice2.pdb
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.AssemblyInfoInputs.cache
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.AssemblyInfo.cs
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.csproj.CoreCompileInputs.cache
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.dll
+C:\C#\CSharp\practice2\obj\Debug\net7.0\refint\practice2.dll
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.pdb
+C:\C#\CSharp\practice2\obj\Debug\net7.0\practice2.genruntimeconfig.cache
+C:\C#\CSharp\practice2\obj\Debug\net7.0\ref\practice2.dll

@@ -1,0 +1,14 @@
+C:\C#\CSharp\practice5\bin\Debug\net7.0\practice5.exe
+C:\C#\CSharp\practice5\bin\Debug\net7.0\practice5.deps.json
+C:\C#\CSharp\practice5\bin\Debug\net7.0\practice5.runtimeconfig.json
+C:\C#\CSharp\practice5\bin\Debug\net7.0\practice5.dll
+C:\C#\CSharp\practice5\bin\Debug\net7.0\practice5.pdb
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.AssemblyInfoInputs.cache
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.AssemblyInfo.cs
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.csproj.CoreCompileInputs.cache
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.dll
+C:\C#\CSharp\practice5\obj\Debug\net7.0\refint\practice5.dll
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.pdb
+C:\C#\CSharp\practice5\obj\Debug\net7.0\practice5.genruntimeconfig.cache
+C:\C#\CSharp\practice5\obj\Debug\net7.0\ref\practice5.dll
