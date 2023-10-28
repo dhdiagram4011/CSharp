@@ -1,0 +1,14 @@
+C:\C#\CSharp\practice9\bin\Debug\net7.0\practice9.exe
+C:\C#\CSharp\practice9\bin\Debug\net7.0\practice9.deps.json
+C:\C#\CSharp\practice9\bin\Debug\net7.0\practice9.runtimeconfig.json
+C:\C#\CSharp\practice9\bin\Debug\net7.0\practice9.dll
+C:\C#\CSharp\practice9\bin\Debug\net7.0\practice9.pdb
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.AssemblyInfoInputs.cache
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.AssemblyInfo.cs
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.csproj.CoreCompileInputs.cache
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.dll
+C:\C#\CSharp\practice9\obj\Debug\net7.0\refint\practice9.dll
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.pdb
+C:\C#\CSharp\practice9\obj\Debug\net7.0\practice9.genruntimeconfig.cache
+C:\C#\CSharp\practice9\obj\Debug\net7.0\ref\practice9.dll
