@@ -1,0 +1,14 @@
+C:\C#\CSharp\practice13\bin\Debug\net7.0\practice13.exe
+C:\C#\CSharp\practice13\bin\Debug\net7.0\practice13.deps.json
+C:\C#\CSharp\practice13\bin\Debug\net7.0\practice13.runtimeconfig.json
+C:\C#\CSharp\practice13\bin\Debug\net7.0\practice13.dll
+C:\C#\CSharp\practice13\bin\Debug\net7.0\practice13.pdb
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.AssemblyInfoInputs.cache
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.AssemblyInfo.cs
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.csproj.CoreCompileInputs.cache
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.dll
+C:\C#\CSharp\practice13\obj\Debug\net7.0\refint\practice13.dll
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.pdb
+C:\C#\CSharp\practice13\obj\Debug\net7.0\practice13.genruntimeconfig.cache
+C:\C#\CSharp\practice13\obj\Debug\net7.0\ref\practice13.dll

@@ -9,7 +9,6 @@ Random random  = new Random();
 int sevenCount = 0;
 
 
-
 for (int i=0; i<7; i++) {
     int randomValue = random.Next(2) + 6;
     //Console.WriteLine (randomValue);

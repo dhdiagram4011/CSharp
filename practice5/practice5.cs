@@ -29,7 +29,7 @@ class gongcha {
         for (int i=0; i<10; i++){
             
             Console.WriteLine(result);
-            result += commonDiffNum; //4 ==> 4+3 = result4 = result4 + commonDiffNum3 
+            result += commonDiffNum; //4 ==> 4+3 = result4 = result4 + commonDiffNum3
 
         }
     }
